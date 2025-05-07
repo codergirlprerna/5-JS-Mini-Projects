@@ -27,3 +27,14 @@ HTML, JavaScript
 
 # Usage
 Open index.html in a browser, enter text, and click Check.
+
+# 3.  Random Quote Generator
+A simple JavaScript app that shows a new, non-repeating motivational quote each time you click a button. Resets after all quotes are shown.
+
+## Tech
+HTML, CSS (optional), JavaScript
+
+# Usage
+Open index.html in a browser.
+
+Click the button to display a random quote
